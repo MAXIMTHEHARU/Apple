@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="spinner_items">
+        <item>"내배캠동"</item>
+        <item>"포동포동"</item>
+        <item>"믈위에동동"</item>
+    </array>
+
+
+</resources>
